@@ -13,7 +13,11 @@
 
 - 📫 How to reach me **tolekadima7@gmail.com**
 
-- ⚡ Fun fact **I'm sure that am funny**
+- ⚡ Fun fact **i = 0
+- for i in range (100)
+-   {
+-     print("ha"*i)
+-   }**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
