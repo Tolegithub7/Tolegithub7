@@ -28,7 +28,7 @@
   <table align="center">
     <tr>
 <td align="center" width="96">
-    <img src="https://img.icons8.com/logos/100/000000/php.png" alt="icon" width="65" height="65" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="icon" width="65" height="65" />
     <br>PHP
 </td>
 <td align="center" width="96">
