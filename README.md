@@ -27,18 +27,18 @@
 ## 🚀 Technologies I use as a Full Stack Developer
   <table align="center">
     <tr>
-      <td align="center" width="96">
-          <img src="https://techstack-generator-tsg.vercel.app/php-icon.svg" alt="icon" width="65" height="65" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator-tsg.vercel.app/laravel-icon.svg" alt="icon" width="65" height="65" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-          <img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-        <br>JavaScript
-      </td>
+<td align="center" width="96">
+    <img src="https://img.icons8.com/logos/100/000000/php.png" alt="icon" width="65" height="65" />
+    <br>PHP
+</td>
+<td align="center" width="96">
+    <img src="https://img.icons8.com/fluency/100/000000/laravel.png" alt="icon" width="65" height="65" />
+    <br>Laravel
+</td>
+<td align="center" width="96">
+    <img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    <br>JavaScript
+</td>
       <td align="center" width="96">
         <img src="https://techstack-generator-tsg.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
         <br>React
