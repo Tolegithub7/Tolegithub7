@@ -4,6 +4,10 @@
 
 ### My Work Includes: Full Stack Web and Mobile Dev and working on personal projects. 🌠
 
+#### But first, coffee. ☕︎⛾☕︎ ☕
+
+
+
 <br>
 
 ## 📈 GitHub Stats
