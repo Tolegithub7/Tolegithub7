@@ -58,7 +58,6 @@
         <br>ViteJS
     </td>
         <td align="center" width="96">
-        <td align="center" width="96">
           <img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
         <br>MySQL
       </td>
