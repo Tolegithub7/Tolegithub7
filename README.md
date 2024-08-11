@@ -2,7 +2,7 @@
 
 ## I'm a web developer. 👨‍💻
 
-### My Work Includes: Full Stack Web and Mobile Dev and working on personal projects. 🌠
+### My Work Includes: Full Stack Web and Mobile Dev, Logo and Thumbnail Design and working on personal projects. 🌠
 
 #### But first, coffee. ☕︎⛾☕︎ ☕
 
