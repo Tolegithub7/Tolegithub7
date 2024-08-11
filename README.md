@@ -8,7 +8,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center"> <a href="https://github.com/AbidAlWassie"> <img src="http://github-readme-streak-stats.herokuapp.com?user=AbidAlWassie&date_format=M%20j%5B%2C%20Y%5D&background=0C1014&border=242424&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292"/> </a> </p>
+<p align="center"> <a href="https://github.com/Tolegithub7"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Tolegithub7&date_format=M%20j%5B%2C%20Y%5D&background=0C1014&border=242424&stroke=2963BD92&ring=4D90DC&fire=4D90DC&currStreakNum=F0F0F0&sideNums=F0F0F0&currStreakLabel=F0F0F0&sideLabels=F0F0F0&dates=929292"/> </a> </p>
 
 <br/>
     <a href="https://github.com/Tolegithub7"><img alt="Tolosa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tolegithub7&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0C1014&icon_color=417cbe" /></a>
